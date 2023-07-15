@@ -1,0 +1,23 @@
+{
+  "name": "ticketsystemjson",
+  "version": "1.0.0",
+  "description": "Shopping Store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rajshree Rajoliya",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajshreeRajoliya/backendAmbula.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RajshreeRajoliya/backendAmbula/issues"
+  },
+  "homepage": "https://github.com/RajshreeRajoliya/backendAmbula#readme"
+}
